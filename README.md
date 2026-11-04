@@ -3,11 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Python+%E2%80%a2+Cybersecurity+%E2%80%a2+Ethical+Hacking;They+say+it's+what+you+make...;I+say+it's+to+fate." alt="Typing SVG">
-</p>
-
-<p align="center">
-  <em>“ They say it's what you make ”</em> • <em>“ I say it's to fate ”</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=They+say+it's+what+you+make...;I+say+it's+to+fate.;Python+%E2%80%a2+Cybersecurity+%E2%80%a2+Ethical+Hacking" alt="Typing SVG">
 </p>
 
 <p align="center">
