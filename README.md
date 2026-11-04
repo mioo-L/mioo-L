@@ -41,15 +41,18 @@
 
 ---
 
-## 📊 03 / LIVE ANALYTICS
+## 📊 03 / CONNECT & REPO
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mioo-L&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=38bdf8&icon_color=0ea5e9&text_color=94a3b8" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mioo-L&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/GITHUB-PROFILE%3A%20MIO-0b0f19?style=for-the-badge&logo=github&logoColor=38bdf8">
+  <img src="https://img.shields.io/badge/SECURITY-EXPLORATION-0ea5e9?style=for-the-badge&logo=hackthebox&logoColor=white">
 </p>
 
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,100:0ea5e9&height=80&section=footer&text=//%20SECURE%20THE%20CODE%20•%20EXPLOIT%20THE%20LIMITS%20//&fontSize=16&fontColor=38bdf8" />
+</p>
 ---
 
 <p align="center">
