@@ -1,33 +1,30 @@
 <p align="center">
-  <img src="header.svg" width="100%">
+  <img src="By the ocean.gif" width="100%" alt="Ocean Vibe Banner">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/quiet%20workspace-curious%20mind-slate?style=flat-square" alt="tag">
-  <img src="https://img.shields.io/badge/status-exploring%20defenses-blueviolet?style=flat-square" alt="tag">
+  <img src="https://img.shields.io/badge/Status-Deep%20Dive-0ea5e9?style=flat-square&logo=hackthebox&logoColor=white" alt="status">
+  <img src="https://img.shields.io/badge/Vibe-Ocean%20&%20Terminal-0284c7?style=flat-square&logo=linux&logoColor=white" alt="vibe">
 </p>
 
 <p align="center">
-  <img src="workstation.gif" width="80%">
-</p>
-<p align="center">
-  <em>“A calm mind in a chaotic world.”</em>
+  <em>“Navigating the digital ocean, securing the unseen depths.”</em>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge&logo=hackthebox&logoColor=green">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Cybersecurity-0f172a?style=for-the-badge&logo=kalilinux&logoColor=0ea5e9">
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-1e293b?style=for-the-badge&logo=gnuprivacyguard&logoColor=38bdf8">
 </p>
 
-<p align="center">
-  <img src="divider.svg" width="100%">
-</p>
+---
 
-## 01 / ABOUT
+## 🌊 01 / SYSTEM_PROFILE
 
-```yaml
-Focus     : Python • Cybersecurity • Ethical Hacking
-Languages : Python • Bash
-Mode      : Analyze / Exploit / Secure
+```ini
+[Identity]
+Handle    = mio
+Specialty = Cybersecurity & Ethical Hacking
+Language  = Python
+Environment = Kali Linux / Terminal
+Mindset   = Analytical / Focused
