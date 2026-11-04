@@ -8,7 +8,8 @@
 </p>
 
 <p align="center">
-  <em>“Navigating the digital ocean, securing the unseen depths.”</em>
+  <em>“They say it's what you make ”</em>
+  <em>“I say it's to fate  ”</em>
 </p>
 
 <p align="center">
