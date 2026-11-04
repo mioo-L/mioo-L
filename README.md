@@ -49,12 +49,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,100:0ea5e9&height=80&section=footer&text=//%20SECURE%20THE%20CODE%20•%20EXPLOIT%20THE%20LIMITS%20//&fontSize=16&fontColor=38bdf8" />
-</p>
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,100:0ea5e9&height=80&section=footer&text=//%20SECURE%20THE%20CODE%20•%20EXPLOIT%20THE%20LIMITS%20//&fontSize=16&fontColor=38bdf8" />
-</p>
